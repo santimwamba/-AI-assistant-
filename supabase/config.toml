@@ -1,0 +1,13 @@
+project_id = "oacphbmbpckvobpmqeah"
+
+[functions.chat]
+verify_jwt = false
+
+[functions.text-to-speech]
+verify_jwt = false
+
+[functions.cloudinary]
+verify_jwt = false
+
+[functions.signup-notification]
+verify_jwt = false
